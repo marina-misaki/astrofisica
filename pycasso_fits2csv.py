@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PyCASSO FITS File to TSV conversion. Extraction of line-of-sight 
+PyCASSO FITS File to CSV conversion. Extraction of line-of-sight 
 velocity (V_0)and velocity dispersion (V_D) and error calculation 
 for spaxels/points along the major axis baseed on CALIFA position angle.
 
